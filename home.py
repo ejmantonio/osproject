@@ -1,2 +1,3 @@
 print("Hello")
-print("deb poge)
+print("Pore")
+print("deb poge")
